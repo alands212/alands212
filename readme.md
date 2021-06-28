@@ -17,19 +17,21 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![php](https://img.shields.io/badge/php%20-%23150458.svg?&style=flat&logo=php)&nbsp;
-![laravel](https://img.shields.io/badge/laravel%20-%23150458.svg?&style=flat&logo=laravel)\
-![Flutter](https://img.shields.io/badge/flutter%20-%23150458.svg?&style=flat&logo=flutter)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Vue](https://img.shields.io/badge/vue.js%20-%23150458.svg?&style=flat&logo=vue.js)&nbsp;
+![Vue](https://img.shields.io/badge/-vue.js-05122A?&style=flat&logo=vue.js)&nbsp;
+![Flutter](https://img.shields.io/badge/-flutter-05122A?&&style=flat&logo=flutter)\
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
+![php](https://img.shields.io/badge/-php-05122A?&style=flat&logo=php)&nbsp;
+![laravel](https://img.shields.io/badge/-laravel-05122A?&&style=flat&logo=laravel)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=FFA518)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu&logoColor=FFA518)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=Nginx&logoColor=FFA518)&nbsp;
-![Caddy](https://img.shields.io/badge/Caddy%20-%23150458.svg?&style=flat&logo=Caddyserve)&nbsp;
-![docker](https://img.shields.io/badge/docker%20-%23150458.svg?&style=flat&logo=docker)&nbsp;
-![traefik](https://img.shields.io/badge/traefik%20-%23150458.svg?&style=flat&logo=Traefik)&nbsp;
+![Caddy](https://img.shields.io/badge/-Caddy-05122A?&style=flat&logo=Caddyserve)&nbsp;
+![docker](https://img.shields.io/badge/-docker-05122A?&style=flat&logo=docker)&nbsp;
+![traefik](https://img.shields.io/badge/-traefik-05122A?&style=flat&logo=Traefik)&nbsp;
 
 ### 📫 &nbsp; Contacto:
 
