@@ -31,7 +31,7 @@
 ![docker](https://img.shields.io/badge/docker%20-%23150458.svg?&style=flat&logo=docker)&nbsp;
 ![traefik](https://img.shields.io/badge/traefik%20-%23150458.svg?&style=flat&logo=Traefik)&nbsp;
 
-### 📫 &nbsp; Contaco:
+### 📫 &nbsp; Contacto:
 
 
 <a href="https://www.linkedin.com/in/alan-ds/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
