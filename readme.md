@@ -2,7 +2,6 @@
 ![version :28.06.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=alands212&color=red)&nbsp;
 [![GitHub Alands212](https://img.shields.io/github/followers/alands212?label=follow&style=social)](https://github.com/alands212)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
 💡 &nbsp; Soy desarrollador web full stack, actualmente trabajo en CODEX SA como lider tecnico.\
