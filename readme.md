@@ -14,25 +14,29 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=7952B3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Vue](https://img.shields.io/badge/-vue.js-05122A?&style=flat&logo=vue.js)&nbsp;
-![Dart](https://img.shields.io/badge/-dart-05122A?&&style=flat&logo=dart&logoColor=1572B6)&nbsp;
-![Flutter](https://img.shields.io/badge/-flutter-05122A?&&style=flat&logo=flutter)\
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
+![Dart](https://img.shields.io/badge/-dart-05122A?&&style=flat&logo=dart&logoColor=0175C2)&nbsp;
+![Flutter](https://img.shields.io/badge/-flutter-05122A?&&style=flat&logo=flutter&logoColor=02569B)\
+![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=MariaDB)&nbsp;
 ![php](https://img.shields.io/badge/-php-05122A?&style=flat&logo=php)&nbsp;
 ![laravel](https://img.shields.io/badge/-laravel-05122A?&&style=flat&logo=laravel)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
+![Jira](https://img.shields.io/badge/-jira-05122A?&&style=flat&logo=jira&logoColor=0052CC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=FFA518)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu&logoColor=FFA518)&nbsp;
-![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=Nginx&logoColor=FFA518)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=Nginx&logoColor=009639)&nbsp;
 ![Caddy](https://img.shields.io/badge/-Caddy-05122A?&style=flat&logo=Caddyserve)&nbsp;
 ![docker](https://img.shields.io/badge/-docker-05122A?&style=flat&logo=docker)&nbsp;
 ![traefik](https://img.shields.io/badge/-traefik-05122A?&style=flat&logo=Traefik)&nbsp;
+![Vultr](https://img.shields.io/badge/-Vultr-05122A?&style=flat&logo=Vultr)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?&style=flat&logo=Amazon-AWS&logoColor=007BFC)&nbsp;
 
 ### 📫 &nbsp; Contacto:
 
