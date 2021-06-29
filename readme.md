@@ -37,6 +37,7 @@
 ![traefik](https://img.shields.io/badge/-traefik-05122A?&style=flat&logo=Traefik)&nbsp;
 ![Vultr](https://img.shields.io/badge/-Vultr-05122A?&style=flat&logo=Vultr)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?&style=flat&logo=Amazon-AWS&logoColor=007BFC)&nbsp;
+![Let’s Encrypt](https://img.shields.io/badge/-Let’s%20Encrypt-05122A?&style=flat&logo=Let’s-Encrypt&logoColor=007BFC)&nbsp;
 
 ### 📫 &nbsp; Contacto:
 
