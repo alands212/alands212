@@ -19,6 +19,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Vue](https://img.shields.io/badge/-vue.js-05122A?&style=flat&logo=vue.js)&nbsp;
+![Dart](https://img.shields.io/badge/-dart-05122A?&&style=flat&logo=dart&logoColor=1572B6)&nbsp;
 ![Flutter](https://img.shields.io/badge/-flutter-05122A?&&style=flat&logo=flutter)\
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![php](https://img.shields.io/badge/-php-05122A?&style=flat&logo=php)&nbsp;
