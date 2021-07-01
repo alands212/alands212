@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
 💡 &nbsp;Soy desarrollador web full stack, actualmente trabajo en [CODEX SA](https://github.com/codexsadev) como lider tecnico.\
-🎓 &nbsp;Estudie técnico analista de sistema, en Virasoro, Corrientes, Argentina (2016-2019).\
+🎓 &nbsp;Estudie técnico analista de sistema, en Virasoro, Corrientes, Argentina (2016-2018).\
 🌱 &nbsp;Estoy en constante aprendizaje en desarrollo de aplicaciones móviles, infraestructura de servidores y ampliando mis conocimientos sobre web \
 ✍️ &nbsp;En mi tiempo libre, juego videojuegos como pasatiempos.\
 💬 &nbsp;¡No dude en comunicarse conmigo para consultas generales o discusiones sobre los temas antes mencionados!\
