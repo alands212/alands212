@@ -25,11 +25,12 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=MariaDB)&nbsp;
 ![php](https://img.shields.io/badge/-php-05122A?&style=flat&logo=php)&nbsp;
 ![laravel](https://img.shields.io/badge/-laravel-05122A?&&style=flat&logo=laravel)&nbsp;
+![livewire](https://img.shields.io/badge/-livewire-05122A?&&style=flat&logo=livewire)&nbsp;
 ![Jira](https://img.shields.io/badge/-jira-05122A?&&style=flat&logo=jira&logoColor=0052CC)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?&style=flat&logo=Jenkins)\
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?&style=flat&logo=Jenkins)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=Nginx&logoColor=009639)&nbsp;
