@@ -48,5 +48,4 @@
 <a href="mailto:martin.ds.212@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/alands212"><img src="https://img.shields.io/badge/-@alands212_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="https://twitter.com/alands212"><img src="https://img.shields.io/badge/-@alands212_-409ee4?style=flat&logo=Twitter&logoColor=white"/></a> &nbsp;
-<a href="https://dasilva.ar"><img src="https://img.shields.io/badge/-Mi%20Web-363636?style=flat&logo=Word&logoColor=white"/></a> &nbsp;
 
