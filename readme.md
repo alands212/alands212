@@ -36,12 +36,12 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=Nginx&logoColor=009639)&nbsp;
-![Caddy](https://img.shields.io/badge/-Caddy-05122A?&style=flat&logo=Caddyserve)&nbsp;
+![Caddy](https://img.shields.io/badge/-caddy-05122A?&style=flat&logo=caddy&logoColor=1F88C0)&nbsp;
 ![docker](https://img.shields.io/badge/-docker-05122A?&style=flat&logo=docker)&nbsp;
-![traefik](https://img.shields.io/badge/-traefik-05122A?&style=flat&logo=Traefik)&nbsp;
+![traefikproxy](https://img.shields.io/badge/-traefikproxy-05122A?&style=flat&logo=traefikproxy&logoColor=#4A1C1)&nbsp;
 ![Vultr](https://img.shields.io/badge/-Vultr-05122A?&style=flat&logo=Vultr)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?&style=flat&logo=Amazon-AWS&logoColor=007BFC)&nbsp;
-![Let’s Encrypt](https://img.shields.io/badge/-Let’s%20Encrypt-05122A?&style=flat&logo=Let’s-Encrypt&logoColor=007BFC)&nbsp;
+![Let’s Encrypt](https://img.shields.io/badge/-letsencrypt-05122A?&style=flat&logo=letsencrypt&logoColor=003A70)&nbsp;
 
 ### 📫 &nbsp; Contacto:
 
