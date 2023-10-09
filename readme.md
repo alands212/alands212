@@ -21,7 +21,8 @@
 ![Vue](https://img.shields.io/badge/-vue.js-05122A?&style=flat&logo=vue.js)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![Dart](https://img.shields.io/badge/-dart-05122A?&&style=flat&logo=dart&logoColor=0175C2)&nbsp;
-![Flutter](https://img.shields.io/badge/-flutter-05122A?&&style=flat&logo=flutter&logoColor=02569B)\
+![Flutter](https://img.shields.io/badge/-flutter-05122A?&&style=flat&logo=flutter&logoColor=02569B)&nbsp;
+![OpenAI](https://img.shields.io/badge/-openai-05122A?&&style=flat&logo=openai&logoColor=412991)\
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=MariaDB)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![php](https://img.shields.io/badge/-php-05122A?&style=flat&logo=php)&nbsp;
