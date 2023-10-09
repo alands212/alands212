@@ -23,6 +23,7 @@
 ![Dart](https://img.shields.io/badge/-dart-05122A?&&style=flat&logo=dart&logoColor=0175C2)&nbsp;
 ![Flutter](https://img.shields.io/badge/-flutter-05122A?&&style=flat&logo=flutter&logoColor=02569B)\
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=MariaDB)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![php](https://img.shields.io/badge/-php-05122A?&style=flat&logo=php)&nbsp;
 ![laravel](https://img.shields.io/badge/-laravel-05122A?&&style=flat&logo=laravel)&nbsp;
 ![livewire](https://img.shields.io/badge/-livewire-05122A?&&style=flat&logo=livewire)&nbsp;
