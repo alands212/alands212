@@ -5,15 +5,11 @@
 📦 MySQL | REST APIs | Tailwind CSS | Docker  
 🌱 Siempre aprendiendo, siempre programando  
 
----
-
 ## 🌐 Redes:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-ds/)  
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/alands212)  
-[![Email](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martin.ds.212@gmail.com)
-
----
+<a href="https://www.linkedin.com/in/alan-ds/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:martin.ds.212@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://twitter.com/alands212"><img src="https://img.shields.io/badge/-@alands212_-000000?style=flat&logo=x&logoColor=white"/></a> &nbsp;
 
 ## 💻 Tech Stack:
 
